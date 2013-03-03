@@ -1,0 +1,4 @@
+gerhard_snackbar:
+    resource: "@GerhardSnackbarBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,7 @@
+parameters:
+#    gerhard_snackbar.example.class: Gerhard\SnackbarBundle\Example
+
+services:
+#    gerhard_snackbar.example:
+#        class: %gerhard_snackbar.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
